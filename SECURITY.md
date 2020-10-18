@@ -14,8 +14,7 @@ currently being supported with security updates.
 
 ## Reporting a Vulnerability
 
-
-
+There are errors. Always are never won't. just fix them to the best of your ability. and if you can't fix then, then don't.
 
 
 
